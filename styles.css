@@ -1,0 +1,12 @@
+* {
+    text-align: center;
+}
+
+nav {
+    max-width: fit-content;
+    margin: auto;
+}
+
+li {
+    text-align: left;
+}
