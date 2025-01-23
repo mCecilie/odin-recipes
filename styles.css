@@ -1,6 +1,7 @@
 * {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 241, 184);
 }
 
 nav {
@@ -16,4 +17,8 @@ h1 {
     font-family:Georgia, 'Times New Roman', serif;
     font-style: italic;
     font-size: 42px;
+}
+
+.intro, nav {
+    font-size: 18px;
 }
